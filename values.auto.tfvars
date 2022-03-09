@@ -1,5 +1,5 @@
 resource_labels = { "provider" : "jx" }
-jx_git_url = "https://github.com/defindal/jx3-gke-gsm"
+jx_git_url = "https://github.com/defindal/jx-gke-gsm-y"
 gcp_project = "xl-devops"
 gsm = true
 jx_bot_username = "prayugi"

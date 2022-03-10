@@ -1,7 +1,7 @@
 resource_labels = { "provider" : "jx" }
-jx_git_url = "https://github.com/defindal/jx-gke-gsm-y"
+jx_git_url = "https://github.com/prayugi/jx-gke-gsm-y"
 gcp_project = "xl-devops"
 cluster_name = "yugi-jx-tf"
 gsm = true
-jx_bot_username = "prayugi"
-jx_bot_token = "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"
+jx_bot_username = "dahruman"
+jx_bot_token = "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"

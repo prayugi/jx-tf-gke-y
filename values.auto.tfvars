@@ -4,4 +4,4 @@ gcp_project = "xl-devops"
 cluster_name = "yugi-jx-tf"
 gsm = true
 jx_bot_username = "dahruman"
-#jx_bot_token = "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"
+#jx_bot_token = "giugiu"
